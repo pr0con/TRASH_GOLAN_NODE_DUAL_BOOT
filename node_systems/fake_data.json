@@ -1,0 +1,265 @@
+ [{   
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "tl ny one",
+    "description" : "wild center",
+    "website" : "https://tlny1.pr0con.com",
+    "address" : "45 Museum Dr, Tupper Lake, NY 12986",
+},
+{    
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "tl ny two",
+    "description" : "Somewhere in Tupper",
+    "website" : "https://tlny2.pr0con.com",
+    "address" : "87 Park St, Tupper Lake, NY 12986",
+},   
+{
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "tl ny three",
+    "description" : "Someplace usefull",
+    "website" : "https://tlny3.pr0con.com",
+    "address" : "131 Chaney Ave, Tupper Lake, NY 12986",
+},    
+{    
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "tl ny four",
+    "description" : "OB shop",
+    "website" : "https://tlny4.pr0con.com",
+    "address" : "65 Lake St, Tupper Lake, NY 12986",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "tl ny 5",
+    "description" : "Get Donuts",
+    "website" : "https://tlny5.pr0con.com",
+    "address" : "48 Park St, Tupper Lake, NY 12986",
+},
+{    
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "tl ny 6",
+    "description" : "Get Juiced",
+    "website" : "https://tlny6.pr0con.com",
+    "address" : "8 Demars Blvd, Tupper Lake, NY 12986",
+ },
+ {
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "tl ny 7",
+    "description" : "draw things",
+    "website" : "https://tlny7.pr0con.com",
+    "address" : "115 Park St, Tupper Lake, NY 12986",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "tl ny 8",
+    "description" : "Need to eat",
+    "website" : "https://tlny8.pr0con.com",
+    "address" : "284 Park St, Tupper Lake, NY 12986",
+},
+{    
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "sl ny 1",
+    "description" : "Get Cozy",
+    "website" : "https://slny1.pr0con.com",
+    "address" : "445 Lake Flower Ave, Saranac Lake, NY 12983",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "sl ny 2",
+    "description" : "Dive In",
+    "website" : "https://slny2.pr0con.com",
+    "address" : "73 Dorsey St, Saranac Lake, NY 12983",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "sl ny 3",
+    "description" : "Do some walking.",
+    "website" : "https://slny3.pr0con.com",
+    "address" : "151 Church St, Saranac Lake, NY 12983",
+},
+{	    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "sl ny 4",
+    "description" : "Eat great breakfest.",
+    "website" : "https://slny4.pr0con.com",
+    "address" : "151 Broadway, Saranac Lake, NY 12983",
+},
+{    
+   "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "sl ny 5",
+    "description" : "caffeine...",
+    "website" : "https://slny5.pr0con.com",
+    "address" : "77 Main St, Saranac Lake, NY 12983",
+},
+{    
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "sl ny 6",
+    "description" : "Tacos!!!",
+    "website" : "https://slny6.pr0con.com",
+    "address" : "7b Broadway, Saranac Lake, NY 12983",
+},
+{    
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "sl ny 7",
+    "description" : "Drug Store",
+    "website" : "https://slny7.pr0con.com",
+    "address" : "277 Broadway, Saranac Lake, NY 12983",
+},
+{       
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "sl ny 8",
+    "description" : "Get Educated",
+    "website" : "https://slny8.pr0con.com",
+    "address" : "23 Santanoni Ave, Saranac Lake, NY 12983",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "lp ny 1",
+    "description" : "The Olympics",
+    "website" : "https://lpny1.pr0con.com",
+    "address" : "2634 Main St, Lake Placid, NY 12946",
+ },
+ {   
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "lp ny 2",
+    "description" : "Pizza Rocks",
+    "website" : "https://lpny2.pr0con.com",
+    "address" : "2536 Main St, Lake Placid, NY 12946",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "lp ny 3",
+    "description" : "Fish Fries",
+    "website" : "https://lpny3.pr0con.com",
+    "address" : "6125 Sentinel Rd, Lake Placid, NY 12946",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "lp ny 4",
+    "description" : "Night Life One",
+    "website" : "https://lpny4.pr0con.com",
+    "address" : "11 School St, Lake Placid, NY 12946",
+ },
+ {   
+    "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "lp ny 5",
+    "description" : "P Chippy",
+    "website" : "https://lpny5.pr0con.com",
+    "address" : "1930 Saranac Ave, Lake Placid, NY 12946",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "lp ny 6",
+    "description" : "Fire!!!",
+    "website" : "https://lpny6.pr0con.com",
+    "address" : "456 Old Military Rd, Lake Placid, NY 12946",
+},
+{ 
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "lp ny 7",
+    "description" : "Done get caught.",
+    "website" : "https://lpny7.pr0con.com",
+    "address" : "2693 Mirror Lake Dr, Lake Placid, NY 12946",
+},
+{    
+     "services" : [ 
+        "Mongo", 
+        "Node"
+    ],
+    "photo" : "no-photo.jpg",
+    "name" : "lp ny 8",
+    "description" : "Leave it all behind",
+    "website" : "https://lpny8.pr0con.com",
+    "address" : "5920 Cascade Rd, Lake Placid, NY 12946",   
+}]  
+mongoimport --jsonArray --db api --collection Servers --file fake_data.json --authenticationDatabase admin --username mongod --password SOMEHARDPASSWORD

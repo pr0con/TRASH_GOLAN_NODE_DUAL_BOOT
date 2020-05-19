@@ -1,0 +1,714 @@
+{
+	"info": {
+		"_postman_id": "ed6b8f52-4ce9-4a78-95c8-2b347289b9b4",
+		"name": "Trahs.pr0con.io",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Auth Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/auth/register",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Auth Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/auth/login",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Auth Logout",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/auth/logout",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"auth",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Auth Recover Password",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://junk.pr0con.io:1200/api/v1/auth/recover/password",
+							"protocol": "https",
+							"host": [
+								"junk",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"auth",
+								"recover",
+								"password"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Auth Reset Password",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/auth/reset/password/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"auth",
+								"reset",
+								"password",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Validate Cookie Token",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/auth/validate/cookie/token",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"auth",
+								"validate",
+								"cookie",
+								"token"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Users",
+			"item": [
+				{
+					"name": "Users Get All",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/users",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Users Create One",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/users",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Users Get Single",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/users/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"users",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Users Update Single",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/users/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"users",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Users Delete Single",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/users/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"users",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Users Update Profile",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/users/profile/update",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"users",
+								"profile",
+								"update"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Users Change Password",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/users/update/profile/password",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"users",
+								"update",
+								"profile",
+								"password"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Servers",
+			"item": [
+				{
+					"name": "Servers Get All",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/servers",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"servers"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Servers Create One",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/servers",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"servers"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Servers Upload Photo",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/servers/:id/photo",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"servers",
+								":id",
+								"photo"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Servers Get Single",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/servers/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"servers",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Servers Update One",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/servers/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"servers",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Servers Delete One",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/servers/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"servers",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Servers GeoGraphical Specs Request",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/servers/:zipcode/:distance",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"servers",
+								":zipcode",
+								":distance"
+							],
+							"variable": [
+								{
+									"key": "zipcode",
+									"value": ""
+								},
+								{
+									"key": "distance",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Projects",
+			"item": [
+				{
+					"name": "Get All Projects",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/projects",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"projects"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Projects Create",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/projects",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"projects"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Projects Get One",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/projects/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"projects",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Projects Update One",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/projects/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"projects",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Projects Delete One",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://trash.pr0con.io:1200/api/v1/projects/:id",
+							"protocol": "https",
+							"host": [
+								"trash",
+								"pr0con",
+								"io"
+							],
+							"port": "1200",
+							"path": [
+								"api",
+								"v1",
+								"projects",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}

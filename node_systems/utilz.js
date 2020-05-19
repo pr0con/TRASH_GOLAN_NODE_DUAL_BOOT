@@ -50,10 +50,10 @@ const system_configuration = {
 			"options": {
 				provider: "mapquest",
 				httpAdapter: "https",
-				apiKey: "p1wmnj5rveAKu0NVgSjPzx3SG7yuuOl2",
+				apiKey: "YOURAPIKEY",
 				formatter: null,
 			},
-			"api-secret": "w2nq8jDs3xrHQuAa"
+			"api-secret": "YOURAPISECRET"
 		}		
 	},
 }
